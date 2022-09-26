@@ -1,7 +1,7 @@
 
 import click
 
-from agileupstate import EXITCODE
+from agileupipc import EXITCODE
 
 
 def print_check_message(text) -> bool:
